@@ -1,5 +1,5 @@
 <?php
-
+echo "Hello World";
 include_once('lib/class.brood.php');
 include_once('lib/class.hen.php');
 
